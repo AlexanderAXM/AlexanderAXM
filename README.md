@@ -1,5 +1,3 @@
 - 👋 Oi, Meu nome é Alexander;
 - 👀 Estou interessado em ser um futuro desenvolvedor web;
-- 🌱 Atualmente estou aprendendo HTML5 e CSS3;
-- 💞️ Por enquanto não vou conseguir ajudar ninguém, mas futuramente quero ajudar a todos que eu puder;
-- 📫 Você pode me encontrar no (16)997750969
+- 🌱 Atualmente estou aprendendo HTML5 e CSS3.
